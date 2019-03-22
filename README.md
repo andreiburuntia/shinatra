@@ -1,5 +1,7 @@
 
-Shinatra - A web server in five lines of bash
+Fork of Shinatra - A web server in five lines of bash
+
+I needed a script that loops until any HTTP request is received, then exit. This fork accomplishes this great feat.
 
 ## Usage:
 
